@@ -174,11 +174,5 @@ The Flask web app provides an intuitive interface for housing price prediction:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Note**: This project is based on examples from "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélien Géron.</content>
 <parameter name="filePath">c:\Users\gauta\ml\README.md
