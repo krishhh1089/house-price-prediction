@@ -13,7 +13,6 @@ A comprehensive machine learning project that predicts housing prices in Califor
 - [Web Application](#web-application)
 - [Dataset](#dataset)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 
