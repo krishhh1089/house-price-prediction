@@ -1,0 +1,35 @@
+# Python virtual environment
+env/
+venv/
+
+# Bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# Datasets and raw files
+datasets/
+*.tgz
+
+# Model artifacts (don’t push large binaries)
+*.pkl
+*.npy
+*.joblib
+
+# Pipeline and training artifacts
+pipeline.pkl
+randomized_search_random_forest_model.pkl
+random_forest_model.pkl
+decision_tree_model.pkl
+linear_regression_model.pkl
+
+# Jupyter checkpoint and outputs
+.ipynb_checkpoints/
+
+# Logs
+*.log
